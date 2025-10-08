@@ -1,3 +1,3 @@
-# CSE134B-<TermInfo>-HW1
-# Name:
-# PID:
+# CSE134B-FA25-HW1
+# Name: Hisham Baobaid
+# PID: A17338004
